@@ -25,3 +25,13 @@ Moreover the concept of inclusion of fuzzy set AcB is def by;
        Even if all above operations and concepts consequently generalize their counterparts in deterministic set theory the resulting properties of fuzziness need not be identical with those of deterministic theory e.g. for sum fuzzy set A the relation   AnĀ ≠ ф or even  AcĀ may be fulfilled.
 
 Here I have created graphs for temperature,weather and motor speed.
+
+Libraries Required
+
+1)numpy 
+
+2)skfuzzy from scipy 
+
+installation link( https://pythonhosted.org/scikit-fuzzy/ )
+
+3)matplotlib 
